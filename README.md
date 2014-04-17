@@ -3,7 +3,7 @@ Ipython-notebooks
 
 Work in progress
 
-[1. AFP portfolio correlation](http://nbviewer.ipython.org/github/jrovegno/ipython-notebooks/blob/master/pandas-AFP.ipynb)
+[1. AFP portfolio correlation](http://nbviewer.ipython.org/github/jrovegno/ipython-notebooks/blob/master/Multifondos_AFP.ipynb)
 
 [2. DJIA and WTI correlation](http://nbviewer.ipython.org/github/jrovegno/ipython-notebooks/blob/master/pandas-DOW.ipynb)
 
