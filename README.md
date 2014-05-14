@@ -7,6 +7,8 @@ Work in progress
 
 [2. DJIA and WTI correlation](http://nbviewer.ipython.org/github/jrovegno/ipython-notebooks/blob/master/pandas-DOW.ipynb)
 
+[3. ENSO and ELQUI relation](http://nbviewer.ipython.org/github/jrovegno/ipython-notebooks/blob/master/pandas-ENSO.ipynb)
+
 Required Packages
 -----------------
 
@@ -16,5 +18,8 @@ Required Packages
 * SciPy >= 0.7.0
 * Matplotlib >= 1.0.0
 * ipython-notebook >= 1.1.0
+* sklearn >= 0.14.1
+* pybrain >= 0.3
+
 
 The easiest way to install all the necessary packages  is to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
