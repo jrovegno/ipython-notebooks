@@ -1,5 +1,6 @@
 Ipython-notebooks
 =================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jrovegno/ipython-notebooks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Work in progress
 
